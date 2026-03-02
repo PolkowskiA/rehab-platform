@@ -1,0 +1,8 @@
+bin
+obj
+.vs
+*.user
+*.suo
+*.db
+RehabPlatform.API.csproj.nuget.g.props
+RehabPlatform.API.csproj.nuget.g.targets

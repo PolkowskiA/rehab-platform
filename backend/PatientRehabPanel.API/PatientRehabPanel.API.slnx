@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="../RehabPlatform.Application/RehabPlatform.Application.csproj" />
+  <Project Path="../RehabPlatform.Domain.Tests/RehabPlatform.Domain.Tests.csproj" />
+  <Project Path="../RehabPlatform.Domain/RehabPlatform.Domain.csproj" />
+  <Project Path="../RehabPlatform.Infrastructure/RehabPlatform.Infrastructure.csproj" />
+  <Project Path="RehabPlatform.API.csproj" />
+</Solution>
