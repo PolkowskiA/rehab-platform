@@ -96,3 +96,7 @@ coverage/
 ############################
 *.tmp
 *.temp
+
+*.db
+*.db-shm
+*.db-wal
